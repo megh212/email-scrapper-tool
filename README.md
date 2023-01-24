@@ -38,5 +38,7 @@ What things you need to install the software
 
 We welcome contributions from the public.
 
+## Screenshots
+
 ## Authors
 Meghraj Patil
