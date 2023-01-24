@@ -1,8 +1,8 @@
 # email-scrapper-tool
 Very simple bash script to crawl email addresses from a specific website.
 # Python email scrapper tool for website
+This tool will allow you extract all the email addresses from any website of our choice in just a matter of seconds. It is fast and efficient and it will boost your information gathering skills!
 
-This is very simple email scrapper tool made with python to scan any website
 
 
 ## Disclaimer
