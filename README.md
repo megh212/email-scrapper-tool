@@ -39,6 +39,13 @@ What things you need to install the software
 We welcome contributions from the public.
 
 ## Screenshots
+*CODE
+![image](https://user-images.githubusercontent.com/88397453/214270724-e5dbc9f6-437e-4448-a2bd-c8ab8c6bdf82.png)
+*COMMAND
+![image](https://user-images.githubusercontent.com/88397453/214270777-606eea74-9083-4b95-8de5-d515bbadf548.png)
+*EMAILS GATHERED
+![image](https://user-images.githubusercontent.com/88397453/214270821-ab746d9b-f12c-4031-82e6-1d26b191f6ed.png)
+
 
 ## Authors
 Meghraj Patil
